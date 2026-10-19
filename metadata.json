@@ -1,0 +1,6 @@
+{
+  "name": "Premium Swimming Academy",
+  "description": "High-end swimming academy app covering baby, child, women, men, and competitive squads with AI stroke coaching and premium facility booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
